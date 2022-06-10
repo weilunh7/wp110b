@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<title>個人網站</title>
+<style>
+    h1 {text-align:center;}
+    p.date {text-align:center;}
+    body
+    {
+        background-image:url('https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-fresh-literary-wood-grain-shading-background-image_200322.jpg');
+        /*<a href ='https://.pngtree.com/free-backgrounds'>來自的免費背景照片 .pngtree.com/</a>*/
+    }
+</style>
+</head>
+
+<body>
+<h1>黃威綸</h1> 
+<hr>
+<h1>個人資訊</h1>  
+<p class="date">目前就讀金門大學資訊工程學系<br>生日:2003/6/25<br><a href="https://www.facebook.com/yalien.tseng"><img src="https://s.yimg.com/ny/api/res/1.2/_6EJIZZzynNfj0Hojup.lA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQ4MA--/https://s.yimg.com/os/creatr-uploaded-images/2021-04/b4c491a0-9522-11eb-be7f-7c70e529e788"width="8%"></a></p>  
+
+<hr> 
+<h1>目前目標</h1>
+<p class="date">1.用自己打工的錢組一台電腦<br>2.順利畢業<br>3.在學業中找到興趣<br></p>
+<hr>
+<h1>目前玩的遊戲</h1>
+<p class="date">1.D4DJ<br><a href="http://www.mobimon.com.tw/D4DJ/"><img src="https://upload.wikimedia.org/wikipedia/zh/5/53/D4DJ-Logo.jpg"width="8%"></a><br>2.世界計畫 初音未來<br><a href="https://www.tw-pjsekai.com/"><img src="https://upload.wikimedia.org/wikipedia/zh/thumb/3/30/Pj_Sekai_app.png/220px-Pj_Sekai_app.png"width="5%"></a><br>3.少女樂團派對<br><a href="http://www.mobimon.com.tw/bang-dream/"><img src="https://yt3.ggpht.com/JIJO6LFPj9ySX9EveVd-YIiAXpN0IuUUvDYBEk1N3Fr6VthDqcNorCr6jXcGyWmD5yxB6jrinUU=s900-c-k-c0x00ffffff-no-rj"width="5%"></a><br>4.傳說對決<br><a href="https://moba.garena.tw/"><img src="https://upload.wikimedia.org/wikipedia/zh/f/fd/%E5%82%B3%E8%AA%AA%E5%B0%8D%E6%B1%BA%E5%8F%B0%E7%81%A3LOGO.png"width="8%"></a><br></p>
+<hr>
+</body>
